@@ -1,0 +1,311 @@
+body{
+	margin: 0;
+}
+#header{
+	width: 100%;
+	height: 50px;
+}
+#header ul{
+	margin: 0;
+}
+#header ul li{
+	list-style: none;
+	display: inline-block;
+	width: 10%;
+	height: 35px;
+	text-align: center;
+	padding-top: 15px;
+}
+#header ul li:hover{
+	background: green;
+	border-radius: 50px;
+	color: white;
+	cursor: pointer;
+}
+.menu{
+	left: 50%;
+	position: absolute;
+}
+#menu2{
+	left: 60%;
+}
+#menu3{
+	left: 70%;
+}
+#menu4{
+	left: 80%;
+}
+#menu5{
+	left: 90%;
+}
+#a{
+	width: 35%;
+	height: 50px;
+	position: absolute;
+}
+#logo{
+	width: 15%;
+	height: 50px;
+	position: absolute;
+}
+#nom{
+	width: 85%;
+	height: 42px;
+	position: absolute;
+	left: 15%;
+	text-align: center;
+	font-family: bahnchrift;
+	font-size: 30px;
+	padding-top: 8px;
+}
+#cadre{
+	width: 100%;
+	height: 500px;
+	background: url(../img/fond.jpg) center/cover;
+}
+#welcome{
+	background: #ffffffad;
+	width: 20%;
+	height: 300px;
+	position: absolute;
+	left: 10%;
+	top: 150px;
+	border-radius: 5px;
+	padding-left: 1%;
+}
+#welcome h1{
+	font-family: cascadia code;
+	font-size: 25px;
+	padding-top: 15px;
+}
+#welcome p{
+	font-family: calibri;
+}
+.button{
+	width: 45%;
+	height: 30px;
+	border-radius: 30px;
+	border-color: green;
+	background: green;
+}
+#leave{
+	background: white;
+}
+.button:hover{
+	cursor: pointer;
+	background: #ffffffad;
+	border-style: none; 
+}
+#about{
+	width: 100%;
+	height: 400px;
+}
+#photo{
+	width: 60%;
+	position: absolute;
+	height: 400px;
+	background: url(../img/image.jpg) center/cover;
+}
+#description{
+	width: 40%;
+	height: 400px;
+	left: 60%;
+	position: absolute;
+}
+.desc1{
+	width: 100%;
+	height: 200px;
+	position: absolute;
+}
+.desc1 h1{
+	padding-left: 70px;
+	font-family: arial black;
+	font-size: 30px;
+}
+.desc1 p{
+	padding-left: 70px;
+	font-family: calibri;
+	padding-right: 70px;
+}
+#image{
+	top: 200px;
+	background: url(../img/b.jpg) center/cover;
+}
+#localisation{
+	width: 100%;
+	height: 600px;
+	background: whitesmoke;
+}
+.intra{
+	width: 70%;
+	height: 600px;
+	position: absolute;
+	left: 15%;
+}
+.intro{
+	width: 100%;
+	height: 300px;
+	position: absolute;
+}
+#intro1{
+	top: 300px;
+}
+.m1{
+	width: 70%;
+	height: 300px;
+	position: absolute;
+}
+.m2{
+	width: 30%;
+	height: 275px;
+	position: absolute;
+	left: 70%;
+	padding-top: 25px;
+}
+.m2 h1{
+	text-align: center;
+	font-family: arial;
+	font-size: 25px;
+}
+.m2 p{
+	text-align: center;
+	font-family: calibri;
+}
+#m22{
+	left: 0%;
+}
+#m11{
+	left: 30%;
+}
+#fichetec{
+	width: 100%;
+	height: 500px;
+}
+#fiche{
+	width: 36%;
+	height: 500px;
+	position: absolute;
+	text-align: center;
+	background: -webkit-linear-gradient(white,red,green)
+}
+#fiche h1{
+	font-size: 40px;
+	font-family: arial;
+}
+#fiche p{
+	font-family: calibri;
+}
+/*slide en CSS*/
+#figure{
+	max-width: 865px;
+	height: 500px;
+	left: 36%;
+	position: relative;
+	overflow: hidden;
+}
+#figure figure{
+	margin: 0px;
+	position: relative;
+	width: 2595px;
+	animation: 5s azaz alternate infinite;
+}
+#figure figure img{
+	width: 865px;
+	height: 500px;
+	float: left;
+}
+@keyframes azaz{
+	0%{left: 0%;}
+	10%{left: 0%;}
+	20%{left: 0%;}
+	30%{left: -100%;}
+	40%{left: -100%;}
+	50%{left: -100%;}
+	60%{left: -100%;}
+	70%{left: -200%;}
+	80%{left: -200%;}
+	90%{left: -200%;}
+	100%{left: -200%;}
+}
+/*fin slide*/
+#offre{
+	width: 100%;
+	height: 920px;
+}
+#offre1{
+	height: 870px;
+}
+#titre{
+	width: 100%;
+	height: 70px;
+	position: absolute;
+}
+#titre h1{
+	font-family: arial;
+	font-size: 25px;
+	text-align: center;
+}
+#contenant{
+	width: 100%;
+	height: 800px;
+	position: absolute;
+	top: 70px;
+}
+.cont1{
+	width: 100%;
+	height: 400px;
+	position: absolute;
+}
+#cont2{
+	top: 450px;
+}
+.cont3{
+	width: 30%;
+	height: 400px;
+	position: absolute;
+	background: whitesmoke;
+}
+#g1{
+	left: 35%;
+}
+#g2{
+	left: 70%;
+}
+.g3{
+	width: 100%;
+	height: 200px;
+	position: absolute;
+}
+#g4{
+	top: 200px;
+	width: 84.5%;
+	padding-left: 45px;
+}
+#g4 p{
+	font-family: arial black;
+}
+#footer{
+	width: 100%;
+	height: 400px;
+	background: whitesmoke;
+}
+.contact{
+	width: 100%;
+	height: 200px;
+	text-align: center;
+	padding-top: 10px;
+}
+.contact h1{
+	font-family: arial;
+	font-size: 30px;
+}
+.contact p{
+	font-family: calibri;
+}
+#mmm{
+	top: 3060px;
+}
+#mmm label{
+	font-family: calibri;
+	font-size: 30px;
+}

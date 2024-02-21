@@ -1,0 +1,233 @@
+#body{
+	background: cyan;
+	margin: 0;
+}
+#menu{
+	width: 100%;
+	height: 40px;
+	background: white;
+}
+#menu ul{
+	margin: 0;
+}
+#menu1{
+	margin-left: 18%;
+}
+#menu ul li{
+	background: white;
+	list-style: none;
+	display: inline-block;
+	width: 200px;
+	height: 30px;
+	text-align: center;
+	padding-top: 10px;
+}
+#menu ul li:hover{
+	background: #03f703;
+	cursor: pointer;
+	border-radius: 20px;
+}
+.section1{
+	width: 100%;
+	height: 500px;
+	background: url(../img/sam2.png)center/cover;
+}
+.s1{
+	width: 100%;
+	height: 400px;
+	position: absolute;
+	background: #000000a6;
+	padding-top: 100px;
+}
+.s1 p{
+	text-align: center;
+	color: white;
+	font-style: italic;
+	font-size: 25px;
+	padding-top: 45px;
+}
+.button{
+	margin-left: 40%;
+	background: #03f703;
+	width: 20%;
+	height: 50px;
+	position: absolute;
+	margin-top: 20px;
+	border-radius: 10px 10px 10px 10px;
+	border-style: none;
+}
+.button:hover{
+	background: yellowgreen;
+	cursor: pointer;
+}
+.section2{
+	background: white;
+	width: 100%;
+	height: 70px;
+	position: absolute;
+}
+.section2 p{
+	text-align: center;
+	font-size: 25px;
+}
+#m170ky{
+	width: 100%;
+	height: 500px;
+	background: whitesmoke;
+	position: absolute;
+	margin-top: 70px;
+}
+.m{
+	width: 15%;
+	height: 300px;
+	margin-left: 5%;
+	margin-top: 100px;
+	position: absolute;
+}
+.mm1{
+	width: 100%;
+	height: 150px;
+}
+#mmm1{
+}
+#mit1{
+	margin-left: 30%;
+}
+#mit2{
+	margin-left: 55%;
+}
+#mit3{
+	margin-left: 80%;
+}
+.mm1 h1{
+	text-align: center;
+}
+.mm1 p{
+	text-align: center;
+}
+.ari{
+	width: 100%;
+	height: 150px;
+}
+.section3{
+	width: 100%;
+	height: 500px;
+	background: whitesmoke;
+	position: absolute;
+	margin-top: 500px;
+}
+.abc{
+	width: 35%;
+	height: 400px;
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 10%
+}
+#abc1{
+	margin-left: 55%;
+}
+#hitman{
+	width: 100%;
+	height: 400px;
+}
+#sec2{
+	background: black;
+	margin-top: 1000px;
+}
+#sec2 p{
+	color: white;
+}
+#sec3{
+	background: #141313;
+	position: absolute;
+	width: 100%;
+	height: 200px;
+	margin-top: 1070px;
+	padding-top: 50px;
+}
+#sec3 p{
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	font-style: italic;
+}
+#sector31{
+	margin-top: 1270px;
+}
+#sector32{
+	margin-left: 55%;
+}
+#sector33{
+	margin-left: 10%;
+}
+#sector1{
+	margin-top: 1770px;
+	background: url(../img/sam4.jpg)center/cover;
+}
+#mitoky{
+	background: #ffffff69;
+	width: 50%;
+	height: 350px;
+	margin-top: -48px;
+	margin-left: 25%;
+	border-radius: 20px 20px 20px 20px;
+}
+#mitoky h1{
+	text-align: center;
+}
+#mitoky p{
+	text-align: center;
+	color: black;
+	font-size: 20px;
+}
+#arintsoa{
+	background: #03f703;
+}
+#arintsoa input{
+	margin-left: 30%;
+	background: #4dff4d;
+	border-style: none;
+	border-radius: 10px 10px 10px 10px;
+	width: 20%;
+	height: 30px;
+}
+
+#arintsoa input:hover{
+	background: yellowgreen;
+	cursor: pointer;
+}
+#RANM170KY{
+	width: 100%;
+	height: 400px;
+	background: black;
+	position: absolute;
+	margin-top: 2410px;
+}
+.NFS{
+	width: 25%;
+	height: 300px;
+	margin-top: 50px;
+	margin-left: 12%;
+	position: absolute;
+	color: white;
+}
+#NFS1{
+	margin-left: 37%;
+	padding-left: 10px;
+}
+#NFS2{
+	margin-left: 62%;
+}
+#remake2024{
+	margin-left: 0%;
+	width: 35%;
+}
+#NFSremake2024{
+	background: #141313;
+	margin-top: 2810px;
+	height: 30px;
+}
+#NFSremake2024 span{
+	color: white;
+	padding-left: 32%;
+}

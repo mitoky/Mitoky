@@ -1,0 +1,471 @@
+body{
+	margin: 0;
+}
+#a{
+	background: #ffffffd6;
+	width: 100%;
+	height: 50px;
+}
+#a ul{
+	margin: 0;
+}
+#a ul li{
+	list-style: none;
+	width: 8%;
+	height: 35px;
+	display: inline-block;
+	text-align: center;
+	padding-top: 15px;
+}
+#a ul li:hover{
+	background: orange;
+	cursor: pointer;
+	border-radius: 50px;
+}
+#a1{
+	width: 15%;
+	height: 50px;
+	position: absolute;
+	left: 12%;
+}
+#a2{
+	width: 30%;
+	height: 50px;
+	position: absolute;
+}
+#a3{
+	width: 70%;
+	height: 50px;
+	position: absolute;
+	left: 30%;
+}
+#a3 h1{
+	text-align: center;
+	font-size: 20px;
+	font-family: arial;
+	font-style: bold;
+}
+#menu{
+	left: 28%;
+	position: absolute;
+}
+#menu1{
+	left: 38%;
+	position: absolute;
+}
+#menu2{
+	left: 48%;
+	position: absolute;
+}
+#menu3{
+	left: 58%;
+	position: absolute;
+}
+#menu4{
+	left: 68%;
+	position: absolute;
+}
+#menu5{
+	left: 78%;
+	position: absolute;
+}
+#b{
+	width: 100%;
+	height: 500px;
+	background: url(../img/.)center/cover;
+}
+#b1{
+	width: 25%;
+	height: 325px;
+	background: #ffffffb5;
+	position: absolute;
+	left: 20%;
+	top: 100px;
+	border-radius: 5px;
+	padding-left: 2%;
+	padding-top: 5px;
+}
+#b1 h1{
+	font-size: 40px;
+	font-family: arial;
+	font-style: bolder;
+}
+#b1 p{
+	font-family: calibri;
+}
+.b2{
+	width: 45%;
+	height: 30px;
+	border-radius: 20px;
+	border-color: orange;
+}
+.b2:hover{
+	border-style: none;
+	cursor: pointer;
+}
+#b21{
+	background: orange;
+}
+#c{
+	width: 100%;
+	height: 650px;
+}
+.c1{
+	width: 70%;
+	height: 650px;
+	position: absolute;
+	left: 15%;
+}
+.c2{
+	width: 100%;
+	height: 100px;
+	position: absolute;
+}
+.c21{
+	text-align: center;
+	width: 100%;
+	height: 50px;
+	position: absolute;
+}
+#c22{
+	top: 50px;
+}
+.c3{
+	width: 100%;
+	height: 550px;
+	position: absolute;
+	top: 100px;
+}
+#c22 h1{
+	font-size: 20px;
+	font-family: arial;
+	font-style: bolder;
+}
+.c31{
+	width: 70%;
+	height: 275px;
+	position: absolute;
+}
+.c32{
+	width: 30%;
+	height: 275px;
+	position: absolute;
+	left: 70%;
+}
+#c321{
+	top: 275px;
+	left: 0%;
+}
+#c311{
+	top: 275px;
+	left: 30%;
+}
+.c3101{
+	width: 96%;
+	height: 250px;
+	background: ;
+	position: absolute;
+	left: 2%;
+	top: 10px;
+}
+.c3201{
+	width: 90%;
+	height: 250px;
+	background: ;
+	position: absolute;
+	left: 5%;
+	top: 10px;
+	background: orange;
+}
+#mc3201{
+	background: #ffeb3b;
+}
+.d{
+	width: 100%;
+	height: 200px;
+	position: absolute;
+	top: 50px;
+	text-align: center;
+	font-size: 15px;
+	font-family: arial black;
+}
+#Location{
+	color: white;
+}
+#Location p{
+	text-align: center;
+}
+#e{
+	width: 100%;
+	height: 330px;
+	background: whitesmoke;
+}
+#Proposition{
+	height: 230px;
+}
+#mitoky{
+	height: 330px;
+}
+.arintsoa{
+	height: 230px;
+	position: absolute;
+	width: 25%;
+	text-align: center;
+}
+#arintsoa1{
+	left: 25%;
+}
+#arintsoa2{
+	left: 50%;
+}
+#arintsoa3{
+	left: 75%;
+}
+.ari2{
+	width: 100%;
+	position: absolute;
+	height: 50px;
+}
+.ari3{
+	width: 100%;
+	position: absolute;
+	height: 180px;
+	top: 50px;
+	text-align: center;
+}
+.ari3 h1{
+	font-family: arial;
+}
+.ari3 p{
+	font-family: calibri;
+}
+#toto{
+	width: 100%;
+	height: 650px;
+	background: #800000d1;
+	background-image: url(../img/.);
+}
+.mimi{
+	width: 100%;
+	height: 275px;
+	position: absolute;
+}
+#m1{
+	top: 275px;
+}
+.toky{
+	width: 50%;
+	height: 275px;
+	position: absolute;
+	color: white;
+}
+.toky h1{
+	font-family: arial;
+}
+.toky p{
+	font-family: calibri;
+}
+#tokyo{
+	left: 50%;
+}
+#mama{
+	position: absolute;
+	width: 100%;
+	height: 225px;
+}
+#momo{
+	position: absolute;
+	width: 100%;
+	height: 50px;
+	top: 225px;
+	text-align: center;
+}
+#momo p{
+	font-family: arial;
+}
+#meme{
+	width: 100%;
+	height: 225px;
+}
+.me{
+	width: 33.3%;
+	height: 225px;
+	position: absolute;
+}
+#me1{
+	left: 33.3%;
+}
+#me2{
+	left: 66.6%;
+}
+#mpmp{
+	position: absolute;
+	width: 100%;
+	height: 50px;
+}
+#button{
+	background: transparent;
+	top: 10px;
+	left: 43%;
+	position: absolute;
+	width: 15%;
+	color: white;
+}
+#f{
+	width: 100%;
+	height: 500px;
+	background: #f5f5f5b5;
+	background-image: url(../img/.)center/cover;
+}
+#mitony{
+	height: 400px;
+}
+#PUBG{
+	height: 500px;
+}
+.CODM{
+	width: 33.3%;
+	height: 400px;
+	position: absolute;
+}
+#codm1{
+	left: 33.3%;
+	background: #ffeb3b;
+}
+#codm2{
+	left: 66.6%;
+}
+.mode{
+	width: 95%;
+	height: 390px;
+	position: absolute;
+	top: 5px;
+	left: 3%;
+}
+.mode1{
+	width: 100%;
+	height: 195px;
+	position: absolute;
+}
+#mod2{
+	top: 195px;
+	text-align: center;
+	font-family: calibri;
+}
+#mm{
+	width: 100%;
+	height: 900px;
+}
+#arena{
+	height: 800px;
+}
+.arintsoaaa{
+	width: 100%;
+	height: 400px;
+	position: absolute;
+}
+#lorie{
+	top: 400px;
+}
+#codm3{
+	background: transparent;
+	left: 33.3%;
+}
+#ken{
+	width: 100%;
+	height: 500px;
+	background: #800000d1;
+	background-image: url(../img/.)center/cover;
+	position: absolute;
+	top: 3580px;
+}
+#lili{
+	height: 400px;
+}
+#lolo{
+	height: 500px;
+}
+.lala{
+	width: 100%;
+	height: 200px;
+	position: absolute;
+}
+.lala h1{
+	text-align: center;
+	color: white;
+	padding-top: 45px;
+	font-family: arial;
+}
+.lala p{
+	text-align: center;
+	color: white;
+	font-family: calibri;
+}
+#lulu{
+	top: 200px;
+}
+.lele{
+	width: 100%;
+	height: 100px;
+	position: absolute;
+}
+#tutu{
+	top: 100px;
+}
+.tata{
+	width: 33.3%;
+	position: absolute;
+	height: 100px;
+}
+.tata p{
+	font-size: 15px;
+	padding-top: -50px;
+}
+#tata1{
+	left: 33.3%;
+}
+#tata2{
+	left: 66.6%;
+}
+.tt{
+	width: 30%;
+	position: absolute;
+	height: 100px;
+}
+.aa{
+	width: 70%;
+	position: absolute;
+	height: 100px;
+	left: 30%;
+}
+.aa p{
+	font-family: calibri;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+}
+#mtk1{
+	width: 30%;
+	border-style: black;
+	position: absolute;
+	top: 35px;
+	left: 2%;
+	border-style: none;
+}
+#mtk2{
+	width: 30%;
+	border-style: black;
+	position: absolute;
+	top: 35px;
+	left: 35%;
+	border-style: none;
+}
+#mtk3{
+	width: 30%;
+	border-style: black;
+	position: absolute;
+	top: 35px;
+	left: 67%;
+	background: orange;
+	border-style: none;
+}

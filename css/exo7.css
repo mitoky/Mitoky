@@ -1,0 +1,466 @@
+body{
+	margin: 0;
+}
+.solid{
+	position: absolute;
+	width: 10%;
+	height: 35px;
+	padding-top: 15px;
+	color: white;
+	text-align: center;
+	margin-left: 15%;
+}
+.menu{
+	background: #000000e3;
+	width: 100%;
+	height: 50px;
+}
+.menu ul{
+	margin: 0;
+	position: relative;
+	margin-left: 60%;
+	width: 35%;
+}
+.menu ul li{
+	display: inline-block;
+	list-style: none;
+	width: 20%;
+	height: 35px;
+	color: white;
+	padding-top: 15px;
+	text-align: center;
+}
+.menu ul li:hover{
+	cursor: pointer;
+	background: grey;
+	border-radius: 5px;
+}
+.menu ul li select{
+	background: transparent;
+	height: 20px;
+	border-style: none;
+	color: white;
+}
+.menu ul li select:hover{
+	cursor: pointer;
+}
+.menu ul li select option{
+	background: #000000e3;
+	cursor: pointer;
+}
+.section1{
+	background: #05bfbf;
+	width: 100%;
+	height: 625px;
+}
+.show{
+	width: 50%;
+	height: 675px;
+	margin-left: 25%;
+	position: absolute;
+}
+.show div h3{
+	font-family: calibri;
+}
+.show div h1{
+	font-family: calibri;
+	font-size: 30px;
+}
+.show div p{
+	font-family: calibri;
+}
+#titre{
+	width: 100%;
+	height: 200px;
+	text-align: center;
+	font-family: calibri;
+	color: white;
+	position: absolute;
+}
+.sary{
+	position: absolute;
+	width: 100%;
+	height: 75px;
+	border-radius: 5px 5px 0px 0px;
+	margin-top: 200px;
+	border-style: none;
+	border-radius: 10px 10px 0px 0px;
+}
+.manga{
+	width: 100%;
+	height: 35px;
+	position: absolute;
+	margin-top: 275px;
+	font-family: calibri;
+	color: white;
+	padding-top: 15px;
+	padding-left: 10%;
+}
+.fotsy{
+	width: 100%;
+	height: 150px;
+	background: white;
+	position: absolute;
+	margin-top: 325px;
+	text-align: center;
+}
+#h2{
+	width: 80%;
+	height: 70px;
+	position: absolute;
+	margin-left:10%;
+}
+#h2 h2{
+	font-family: calibri;
+	padding-top: 15px;
+	border-bottom: solid 2px black;
+	font-size: 25px;
+}
+#fotsykely{
+	margin-top: 475px;
+}
+.phi{
+	width: 100%;
+	height: 75px;
+}
+.blocm{
+	width: 20%;
+	height: 200px;
+	position: absolute;
+	height: 75px;
+}
+#kely{
+	margin-top: 0px;
+	height: 75px;
+}
+#kely2{
+	margin-top: 75px;
+	height: 75px;
+}
+.section2{
+	position: relative;
+	width: 60%;
+	height: 400px;
+	position: relative;
+	margin: auto;
+}
+.mizara{
+	width: 33.3%;
+	height: 400px;
+	position: absolute;
+}
+#icone{
+	width: 30%;
+	height: 80px;
+	position: absolute;
+	margin-top: 45px;
+	margin-left: 35%;
+}
+#soratra{
+	width: 100%;
+	height: 250px;
+	position: absolute;
+	margin-top: 130px;
+	text-align: center;
+}
+#soratra h1{
+	font-family: arial;
+}
+#soratra p{
+	font-family: calibri;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.button{
+	width: 40%;
+	height: 40px;
+	color: white;
+	font-family: arial;
+	background:  #000000e3;
+	border-radius: 5px;
+	border-style: none;
+}
+.button:hover{
+	cursor: pointer;
+}
+#mizara2{
+	margin-left: 33.3%;
+}
+#mizara3{
+	margin-left: 66.6%;
+}
+.section3{
+	position: relative;
+	width: 100%;
+	height: 450px;
+}
+#title{
+	width: 100%;
+	height: 50px;
+	background: white;
+}
+#title h1{
+	font-family: arial;
+	padding-top: 10px;
+	text-align: center;
+}
+.ligne1{
+	position: absolute;
+	width: 100%;
+	height: 200px;
+	margin-top: 50px;
+}
+#ligne2{
+	margin-top: 200px;
+}
+.bloc{
+	width: 20%;
+	height: 200px;
+	position: absolute;
+	height: 150px;
+}
+#bloc2{
+	margin-left: 20%;
+}
+#bloc3{
+	margin-left: 40%;
+}
+#bloc4{
+	margin-left: 60%;
+}
+#bloc5{
+	margin-left: 80%;
+}
+.section4{
+	width: 60%;
+	height: 400px;
+	position: relative;
+	margin: auto;
+}
+.mizaraa{
+	width: 33.3%;
+	height: 400px;
+	position: absolute;
+}
+.mizaraa h1{
+	font-family: arial;
+	padding-left: 10px;
+	font-size: 20px;
+
+}
+.mizaraa p{
+	font-family: calibri;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.mizaraa input{
+	left: 10px;
+	position: absolute;
+}
+.mizarab{
+	width: 33.3%;
+	height: 400px;
+	position: absolute;
+	margin-left: 33.3%;
+}
+#ud{
+	width: 80%;
+	height: 50px;
+	background: white;
+	border-bottom: solid 2px black;
+	position: absolute;
+	margin-left: 10%;
+}
+#ud h1{
+	font-family: arial;
+	font-size: 20px;
+}
+#uu{
+	width: 100%;
+	height: 350px;
+	position: absolute;
+	margin-top: 50px;
+}
+#uu p{
+	font-family: calibri;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: #05bfbf;
+}
+#uu p:hover{
+	cursor: pointer;
+	text-decoration: underline;
+}
+#mizarac{
+	margin-left: 66.6%;
+}
+.section5{
+	width: 100%;
+	height: 400px;
+	background: url(../img/havana.png);
+	background-attachment: center;
+	background-size: cover;
+}
+.cyan{
+	width: 100%;
+	height: 400px;
+	background: #00a3a3cf;
+	text-align: center;
+}
+#icone2{
+	width: 70px;
+	height: 70px;
+	position: absolute;
+	margin-left: 47%;
+	margin-top: 20px;
+}
+#contenu{
+	width: 60%;
+	height: 320px;
+	position: absolute;
+	margin-left: 20%;
+	margin-top: 80px;
+	text-align: center;
+	color: white;
+}
+#contenu p{
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 10px;
+	font-family: calibri;
+}
+#contenu h1{
+	font-family: arial;
+}
+#contenu h2{
+	font-family: arial;
+}
+.section6{
+	width: 70%;
+	height: 200px;
+	position: relative;
+	margin: auto;
+}
+#our{
+	width: 100%;
+	height: 50px;
+	position: absolute;
+}
+#our h1{
+	font-family: arial;
+	text-align: center;
+}
+#ligne3{
+	width: 100%;
+	position: absolute;
+	height: 150px;
+	margin-top: 50px;
+}
+.b1{
+	position: absolute;
+	width: 25%;
+	height: 150px;
+	text-align: center;
+}
+.b1 h1{
+	font-family: mistral;
+	font-size: 40px;
+}
+#b2{
+	margin-left: 25%;
+}
+#b2 h1{
+	padding-top: 30px;
+	font-family: Lucida Fax;
+	font-size: 20px;
+
+}
+#b3{
+	margin-left: 50%;
+}
+#b3 h1{
+	font-family: arial black;
+	font-size: 25px;
+	padding-top: 20px;
+}
+#b4{
+	margin-left: 75%;
+}
+.footer{
+	width: 100%;
+	height: 250px;
+	background: #000000e3;
+}
+#foot{
+	width: 70%;
+	height: 250px;
+	position: absolute;
+	margin-left: 15%;
+}
+.zara{
+	width: 33.3%;
+	height: 250px;
+	position: absolute;
+}
+#cc{
+	width: 90%;
+	height: 50px;
+	color: white;
+	font-family: arial;
+	position: absolute;
+	margin-left: 10%;
+	border-bottom: solid 2px white;
+}
+#cc h1{
+	font-size: 25px;
+}
+#bb{
+	width: 90%;
+	height: 200px;
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 10%;
+	color: white;
+	font-family: calibri;
+}
+#logo{
+	width: 100%;
+	height: 50px;
+	position: absolute;
+	margin-top: 10px;
+}
+.logo1{
+	width: 20%;
+	height: 50px;
+	position: absolute;
+}
+.logo{
+	width: 100%;
+	height: 50px;
+}
+.loo{
+	width: 100%;
+	height: 70px;
+}
+.photo{
+	width: 100%;
+	height: 150px;
+}
+#logo2{
+	margin-left: 20%;
+}
+#logo3{
+	margin-left: 40%;
+}
+#logo4{
+	margin-left: 60%;
+}
+#logo5{
+	margin-left: 80%;
+}
+#zara2{
+	margin-left: 33.3%;
+}
+#zara3{
+	margin-left: 66.6%;
+}

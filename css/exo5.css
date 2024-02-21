@@ -1,0 +1,551 @@
+body{
+	margin: 0;
+}
+#bloc{
+	background: #02bf02;
+	width: 100%;
+	height: 50px;
+}
+#bloc ul{
+	margin: 0;
+	width: 62%;
+	position: absolute;
+	left: 30%;
+	height: 50px;
+}
+#bloc ul li{
+	list-style: none;
+	display: inline-block;
+	padding-top: 15px;
+	text-align: center;
+	color: white;
+	font-family: arial;
+	width: 10%;
+	height: 35px;
+}
+#bloc ul li:hover{
+	cursor: pointer;
+	background: #29d71e;
+	border-radius: 10px;
+}
+#icone{
+	height: 50px;
+	width: 15%;
+	position: absolute;
+}
+#icon{
+	position: absolute;
+	width: 20%;
+	height: 50px;
+}
+#titre{
+	text-align: center;
+	position: absolute;
+	left: 20%;
+	height: 50px;
+	width: 80%;
+	color: white;
+	font-family: arial;
+	font-size: 30px;
+	padding-top: 10px;
+}
+#blo{
+	background: orangered;
+	width: 5%;
+	height: 35px;
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 95%;
+	color: white;
+	text-align: center;
+	font-family: arial;
+	padding-top: 15px;
+}
+.section1{
+	background: url(../img/panorama.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+	height: 600px;
+}
+#vert{
+	background: #0080002e;
+	width: 100%;
+	height: 600px;
+}
+#interne{
+	width: 50%;
+	height: 50px;
+	position: absolute;
+	top: 100px;
+	left: 24%;
+}
+#interne ul{
+	margin: 0;
+	width: 100%;
+	position: absolute;
+	height: 50px;
+}
+#interne ul li{
+	width: 18%;
+	height: 35px;
+	padding-top: 15px;
+	color: white;
+	text-align: center;
+	display: inline-block;
+	list-style: none;
+	background: black;
+	font-family: arial black;
+	border-radius: 5px;
+}
+#interne ul li:hover{
+	background: #121111ad;
+	cursor: pointer;
+	color: white;
+}
+#blanc{
+	background: white !important;
+	color: black !important;
+}
+#table{
+	width: 60%;
+	height: 440px;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 20%;
+	background: #ffffffc4;
+	border-radius: 5px;
+}
+#td{
+	width: 25%;
+	height: 25px;
+	padding-left: 75%;
+	padding-top: 25px;
+	position: absolute;
+	background: transparent;
+	font-family: calibri;
+}
+#tableau{
+	width: 100%;
+	height: 650px;
+	position: absolute;
+	margin-top: 50px;
+}
+.nomdate{
+	width: 100%;
+	height: 40px;
+}
+table tbody label{
+	font-family: calibri;
+}
+.select{
+	height: 40px;
+	width: 101%;
+}
+.mitoky{
+	width: 50%;
+	height: 250px;
+	position: absolute;
+}
+#mit{
+	position: absolute;
+	height: 125px;
+	width: 90%;
+	margin-left: 5%;
+}
+#mito{
+	position: absolute;
+	margin-top: 125px;
+	height: 125px;
+	width: 90%;
+	margin-left: 5%;
+}
+#matory{
+	margin-left: 50%;
+}
+#but2{
+	width: 100%;
+	height: 140px;
+	position: absolute;
+	margin-top: 300px;
+	text-align: center;
+}
+#cre22{
+	background: transparent;
+	color: black;
+}
+.cre{
+	width: 90%;
+	height: 50px;
+	position: relative;
+	background: orangered;
+	border-radius: 10px;
+	border-style: none;
+	color: white;
+	margin-top: 10px;
+}
+.cre:hover{
+	cursor: pointer;
+	background: orange;
+}
+.section2{
+	width: 100%;
+	height: 500px;
+}
+.sec1{
+	width: 100%;
+	height: 100px;
+	position: absolute;
+	text-align: center;
+}
+.sec1 h1{
+	font-family: arial black;
+}
+.sec2{
+	width: 100%;
+	height: 300px;
+	position: absolute;
+	margin-top: 100px;
+}
+.mizara{
+	width: 20%;
+	height: 300px;
+	position: absolute;
+	margin-left: 18%;
+	background: url(../img/barcelone.jpg);
+	background-size: cover;
+	background-attachment: center;
+}
+.maizina{
+	width: 100%;
+	height: 300px;
+	background: #00000070;
+}
+.amr1{
+	width: 27%;
+	height: 45px;
+	position: absolute;
+	margin-top: 35px;
+	margin-left: 36%;
+	border-radius: 50%;
+	text-align: center;
+	font-family: arial black;
+	color: white;
+	padding-top: 25px;
+	border:1px solid green;
+}
+.amr2{
+	width: 100%;
+	height: 150px;
+	position: absolute;
+	margin-top: 110px;
+	text-align: center;
+	font-family: calibri;
+	color: white;
+}
+#amr3{
+	margin-top: 90px;
+}
+#sary2{
+	margin-left: 40%;
+	background: url(../img/ny.jpg);
+	background-size: cover;
+	background-attachment: center;
+}
+#sary3{
+	margin-left: 62%;
+	background: url(../img/losangel.jpg);
+	background-size: cover;
+	background-attachment: center;
+}
+#sary4{
+	margin-left: 18%;
+	background: url(../img/princess.jpeg);
+	background-size: cover;
+	background-attachment: center;
+}
+#sary5{
+	margin-left: 40%;
+	background: url(../img/casuella.jpg);
+	background-size: cover;
+	background-attachment: center;
+}
+#sary6{
+	margin-left: 62%;
+	background: url(../img/legend.jpg);
+	background-size: cover;
+	background-attachment: center;
+}
+#sec3{
+	margin-top: 400px;
+}
+.butto{
+	width: 20%;
+	height: 50px;
+	background: white;
+	border-color: black;
+	border-radius: 10px;
+	position: relative;
+	margin-top: 25px;
+}
+.butto:hover{
+	cursor: pointer;
+}
+#centre{
+	width: 100%;
+	height: 600px;
+}
+.paysage{
+	width: 100%;
+	height: 200px;
+	position: absolute;
+}
+.m11{
+	width: 25%;
+	height: 200px;
+	position: absolute;
+	background: url(../img/havana.png);
+	background-size: cover;
+	background-attachment: center;
+}
+.m1{
+	width: 100%;
+	height: 115px;
+	position: absolute;
+	background: #00000070;
+	text-align: center;
+	font-family: arial black;
+	padding-top: 10px;
+	padding-top: 85px;
+	color: white;
+}
+#m2{
+	margin-left: 25%;
+	background: url(../img/Bell.jpg);
+	background-size: cover;
+	background-attachment: center;
+}
+#m21{
+	left: 25%;
+	width: 50%;
+	height: 160px;
+	background:  #02bf02;
+	padding-top: 40px;
+	text-align: center;
+	color: white;
+}
+#m21 h1{
+	font-family: arial black;
+}
+#m21 p{
+	font-family: calibri;
+}
+#m3{
+	margin-left: 50%;
+	background: url(../img/madagascar.jpg);
+	background-size: cover;
+	background-attachment: center;
+}
+#m4{
+	margin-left: 75%;
+	background: url(../img/turkey.jpeg);
+	background-size: cover;
+	background-attachment: center;
+}
+#m5{
+	background: url(../img/losangeles.jpg);
+	background-size: cover;
+	background-attachment: center;
+}
+#m6{
+	background: url(../img/cancun.jpg);
+	background-size: cover;
+	background-attachment: center;
+	margin-left: 75%;
+}
+#m7{
+	background: url(../img/seychelles.jpg);
+	background-size: cover;
+	background-attachment: center;
+}
+#m8{
+	background: url(../img/egypt.jpg);
+	background-size: cover;
+	background-attachment: center;
+	margin-left: 25%;
+}
+#m9{
+	background: url(../img/morocoo.jpg);
+	background-size: cover;
+	background-attachment: center;
+	margin-left: 50%;
+}
+#m10{
+	background: url(../img/italy.jpg);
+	background-size: cover;
+	background-attachment: center;
+	margin-left: 75%;
+}
+#p2{
+	margin-top: 200px;
+}
+#p3{
+	margin-top: 400px;
+}
+#farany{
+	background:  #02bf02;
+	height: 400px;
+}
+.sec11{
+	width: 100%;
+	height: 100px;
+	position: absolute;
+	text-align: center;
+	color: white;
+	font-family: arial black;
+}
+.sec22{
+	width: 100%;
+	height: 200px;
+	position: absolute;
+	margin-top: 100px;
+}
+.sec33{
+	width: 100%;
+	height: 100px;
+	position: absolute;
+	margin-top: 300px;
+	text-align: center;
+}
+.butor{
+	background: orangered;
+	width: 20%;
+	height: 50px;
+	position: relative;
+	margin-top: 25px;
+	color: white;
+	border-radius: 10px;
+	border-style: none;
+}
+.butor:hover{
+	cursor: pointer;
+	background: orange;
+}
+.mizara1{
+	width: 35%;
+	height: 200px;
+	position: absolute;
+	margin-left: 13%;
+}
+#photo44{
+	width: 30%;
+	height: 150px;
+	position: absolute;
+}
+.perso{
+	width: 100%;
+	height: 150px;
+	border-radius: 100px;
+}
+#soratra{
+	width: 65%;
+	height: 150px;
+	position: absolute;
+	background: white;
+	border-radius: 10px;
+	margin-left: 33%;
+}
+#soratra p{
+	font-family: calibri;
+	padding: 5px;
+}
+#soratr{
+	width: 70%;
+	height: 50px;
+	margin-left: 30%;
+	position: absolute;
+	margin-top: 150px;
+}
+#soratr {
+	font-family: calibri;
+}
+#miz2{
+	margin-left: 52%;
+}
+#foot{
+	width: 100%;
+	height: 400px;
+	background: black;
+}
+.footer{
+	width: 100%;
+	height: 370px;
+	position: absolute;
+}
+.zara{
+	width: 25%;
+	height: 370px;
+	position: absolute;
+	margin-left: 13%;
+	color: white;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.zara h2{
+	font-family: arial;
+}
+.zara p{
+	font-family: calibri;
+}
+#logo{
+	width: 100%;
+	height: 80px;
+}
+.logo1{
+	width: 25%;
+	height: 80px;
+	position: absolute;
+}
+#logo2{
+	margin-left: 25%;
+}
+.def{
+	width: 100%;
+	height: 80px;
+}
+#logo3{
+	margin-left: 50%;
+}
+#logo4{
+	margin-left: 75%;
+}
+#zara2{
+	margin-left: 40%;
+}
+#zara3{
+	margin-left: 67%;
+}
+#butfoot{
+	width: 50%;
+}
+.button{
+	width: 100%;
+	height: 50px;
+	background: black;
+	color: white;
+	border-color: white;
+	border-radius: 10px;
+}
+.button:hover{
+	cursor: pointer;
+	border-style: none;
+}
+.span{
+	width: 87%;
+	height: 30px;
+	position: absolute;
+	margin-top: 370px;
+	background: #181616;
+	color: white;
+	padding-left: 13%;
+}

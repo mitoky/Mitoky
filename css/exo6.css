@@ -1,0 +1,191 @@
+body{
+	margin: 0;
+}
+#head{
+	background: url(../img/Bell.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+	width: 100%;
+	height: 500px;
+	margin-top: -25px;
+}
+#head h1{
+	font-family: arial black;
+	padding-top: 150px;
+}
+#head p{
+	font-family: calibri;
+	color: white;
+}
+.but{
+	background: white;
+	border-radius: 5px;
+	width: 10%;
+	height: 30px;
+	border-style: none;
+	font-family: calibri;
+}
+.but:hover{
+	cursor: pointer;
+}
+#but2{
+	background: transparent;
+	border: solid 1px white;
+	color: white;
+}
+#corps{
+	width: 100%;
+	height: 750px;
+}
+#bloc{
+	width: 70%;
+	height: 750px;
+	background: white;
+	position: absolute;
+	margin-left: 15%;
+}
+#bloc1{
+	position: absolute;
+	width: 100%;
+	height: 150px;
+}
+#bloc1 h1{
+	font-family: calibri;
+}
+#bloc2{
+	position: absolute;
+	width: 100%;
+	height: 600px;
+	margin-top: 150px;
+}
+.b1{
+	width: 27%;
+	height: 200px;
+	position: absolute;
+	padding-left: 30px;
+	padding-right: 30px
+}
+.b1 p{
+	font-family: calibri;
+}
+.but3{
+	background: transparent;
+	border-style: none;
+	color: #008033f2;
+	height: 30px;
+	font-size: 30px;
+}
+.but3:hover{
+	cursor: pointer;
+}
+#b2{
+	margin-left: 33.3%;
+	background: url(../img/madagascar.jpg);
+	background-size: cover;
+	background-attachment: center;
+}
+#b3{
+	margin-left: 66.6%;
+}
+#b4{
+	margin-top: 200px;
+	background: url(../img/morocoo.jpg);
+	background-size: cover;
+	background-attachment: center;
+}
+#b5{
+	margin-top: 200px;
+	margin-left: 33.3%;
+}
+#b6{
+	margin-top: 200px;
+	margin-left: 66.6%;
+	background: url(../img/ny.jpg);
+	background-size: cover;
+	background-attachment: center;
+}
+.bloc3{
+	position: absolute;
+	width: 70%;
+	height: 150px;
+	margin-top: 550px;
+	padding-left: 15%;
+	padding-right: 15%;
+	padding-top: 50px;
+	font-family: calibri;
+}
+#bloc3 p{
+	font-family: calibri;
+}
+#DYWG{
+	width: 100%;
+	height: 245px;
+	background: #80808085;
+	text-align: center;
+	color: white;
+	font-family: arial;
+	font-size: 20px;
+	padding-top: 15px;
+
+}
+#text{
+	width: 30%;
+	border-style: none;
+	height: 40px;
+}
+.but4{
+	border-style: none;
+	background: #008033f2;
+	height: 45px;
+	width: 8%;
+	border-radius: 5px;
+	color: white;
+}
+.but4:hover{
+	cursor: pointer;
+}
+#farany{
+	width: 100%;
+	height:450px;
+}
+#toko{
+	width: 70%;
+	height: 450px;
+	position: absolute;
+	margin-left: 15%;
+}
+.mizara{
+	background:  -webkit-linear-gradient(skyblue,#008033f2);
+	width: 28%;
+	height: 190px;
+	position: absolute;
+	margin-top: 50px;
+	border-radius: 5px;
+	color: white;
+	font-family: calibri;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#but5{
+	background: transparent;
+	height: 30px;
+	width: 30%;
+	border-style: none;
+	color: white;
+}
+#mizara2{
+	background: ;
+	margin-left: 35%;
+	background: -webkit-linear-gradient(skyblue,blue);
+}
+#mizara3{
+	background:  -webkit-linear-gradient(pink,red);
+	margin-left: 70%;
+}
+#foot{
+	position: absolute;
+	margin-top: 250px;
+	padding-top: 10px;
+	height: 190px;
+}
